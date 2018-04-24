@@ -14,3 +14,8 @@ Here are the numbers that every web developer should know!
 ## Frameworks
 
 ## Libraries
+
+## Resources
+A list of resources that inspired the data above or where you can find more details:
+
+ - https://www.techempower.com/benchmarks/#section=data-r15&hw=ph&test=fortune
