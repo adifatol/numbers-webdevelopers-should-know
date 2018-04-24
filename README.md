@@ -1,6 +1,15 @@
 # Numbers every web developer should know
 Here are the numbers that every web developer should know!
 
+## Summary
+
+Request ............................. 1s
+  Queueing .......................... 10 ms
+  Stalled/Blocking .......................... 10 ms
+  DNS/Lookup .......................... 10 ms
+  Connection .......................... 100 ms
+  SSL .......................... 50 ms
+
 ## Web servers
 ### Static content
 
