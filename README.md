@@ -4,6 +4,8 @@ Here are the numbers that every web developer should know!
 ## Web servers
 ### Static content
 
+Physical machine, 4-core with 7.5G of RAM 
+
 | APACHE | NGINX |
 | --- | --- |
 | 10770 req/s | 20232 req/s |
