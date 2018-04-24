@@ -2,6 +2,11 @@
 Here are the numbers that every web developer should know!
 
 ## Web servers
+### Static content
+
+APACHE | NGINX
+10770 req/s | 20232 req/s
+@ 512 PARALLEL REQUESTS | @ 512 PARALLEL REQUESTS
 
 ## Databases
 ### RDBMS
