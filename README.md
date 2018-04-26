@@ -3,11 +3,10 @@ Here are the numbers that every web developer should know!
 
 ## Summary
 
-Request ............................. 1s
- - Queueing .......................... 10 ms
- - Stalled/Blocking .......................... 10 ms
+A __Request__
+ - Stalled/Blocking/Queueing .......................... 1 ms
  - DNS/Lookup .......................... 10 ms
- - Connection .......................... 100 ms
+ - Connection .......................... 50 ms
  - SSL .......................... 50 ms
 
 ## Web servers
