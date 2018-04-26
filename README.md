@@ -4,10 +4,13 @@ Here are the numbers that every web developer should know!
 ## Summary
 
 A __Request__
- - Stalled/Blocking/Queueing .......................... 1 ms
- - DNS/Lookup .......................... 10 ms
- - Connection .......................... 50 ms
- - SSL .......................... 50 ms
+ 
+ | Phase | Approx Time |
+ | --- | --- |
+ | Stalled/Blocking/Queueing | ................. 1 ms |
+ | DNS/Lookup | ................. 10 ms |
+ | Connection | ................. 50 ms |
+ | SSL | ................. 50 ms |
 
 ## Web servers
 ### Static content
