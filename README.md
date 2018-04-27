@@ -13,26 +13,26 @@ A __Request__
  | SSL | ................. 50 ms |
 
 ## Web servers
-### Static content
-
-Physical machine, 4-core with 7.5G of RAM 
-
-| APACHE | NGINX |
-| --- | --- |
-| 10770 req/s | 20232 req/s |
-| @ 512 PARALLEL REQUESTS | @ 512 PARALLEL REQUESTS |
+  [waiting for summary](benchmarks/webservers.md)
 
 ## Databases
-### RDBMS
-### NOSQL
+
+  ### RDBMS
+    [waiting for summary]
+  ### NOSQL
+    [waiting for summary]
 
 ## Services (Redis, Memcached etc)
+  [waiting for summary]
 
 ## Programming Languages, interpretors
+  [waiting for summary]
 
 ## Frameworks
+  [waiting for summary]
 
 ## Libraries
+  [waiting for summary]
 
 ## Resources
 A list of resources that inspired the data above or where you can find more details:
