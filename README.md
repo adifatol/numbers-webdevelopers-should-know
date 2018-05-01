@@ -1,5 +1,9 @@
 # Numbers every web developer should know
-Here are the numbers that every web developer should know!
+
+Here are the __numbers that every web developer should know__!
+
+This is still work in progress. 
+Everyone is welcomed to contribute, just fork the repo and do a PR when you have something to add/fix!
 
 ## Summary
 
@@ -18,6 +22,7 @@ A __Request__
 ## Databases
 
   ### RDBMS
+    https://mariadb.org/performance-evaluation-of-mariadb-10-1-and-mysql-5-7-4-labs-tplc/
     [waiting for summary]
   ### NOSQL
     [waiting for summary]
