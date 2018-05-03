@@ -7,14 +7,18 @@ Everyone is welcomed to contribute, just fork the repo and do a PR when you have
 
 ## Summary
 
+ - average response time for a HTTP request should start from ~ 150 ms
+ - an average server with ~4 cores & 4 GB RAM should support:
+   - __from__ 500 ~ 1000 req / sec Apache
+   - __from__ 2000 ~ 5000 req / sec Nginx
+   - __from__ 10 ~ 100 inserts / sec MySQL/PostgreSQL
+   - __from__ 100 ~ 1000 selects / sec MySQL/PostgreSQL
+ - an average request time from one server to another (same network) should be 10 ~ 50 ms
+ - php concurrent threads from 50 ~ 100k
+
 A __Request__
  
- | Phase | Approx Time |
- | --- | --- |
- | Stalled/Blocking/Queueing | ................. 1 ms |
- | DNS/Lookup | ................. 10 ms |
- | Connection | ................. 50 ms |
- | SSL | ................. 50 ms |
+ See the [X-Ray of a request](benchmarks/request.md)
 
 ## Web servers
   [waiting for summary](benchmarks/webservers.md)
