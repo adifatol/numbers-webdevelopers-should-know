@@ -25,6 +25,7 @@ A __Request__
  - Time To Start Render ... (after content is downloaded) ~500 ms
  - Time To Interact ... (after js is executed) ~ 1 s
   - Overall Weight ... 2 MB
+
 [Resources](https://www.keycdn.com/blog/website-performance-metrics/)
 
 ## Web servers
