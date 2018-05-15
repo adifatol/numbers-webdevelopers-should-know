@@ -20,6 +20,13 @@ A __Request__
  
  See the [X-Ray of a request](benchmarks/request.md)
 
+## Frontend
+ - Time To Title ... ~150 ms
+ - Time To Start Render ... (after content is downloaded) ~500 ms
+ - Time To Interact ... (after js is executed) ~ 1 s
+  - Overall Weight ... 2 MB
+[Resources](https://www.keycdn.com/blog/website-performance-metrics/)
+
 ## Web servers
   [waiting for summary](benchmarks/webservers.md)
 
